@@ -38,6 +38,10 @@ if ($_SERVER["REQUEST_METHOD"]=="POST"){
     }
     if (@$flag==0){
         echo "Not find word";
+
     }
 }
+
+
+
 
